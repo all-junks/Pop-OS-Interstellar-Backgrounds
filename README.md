@@ -1,12 +1,12 @@
 <h1 align="center"> Pop!_OS Interstellar Backgrounds </h1>
 <h1 align="center">
-  <img src="https://github.com/all-junks/Pop_-OS-Interstellar-Backgrounds/blob/main/Pop!_OS%20Interstellar%20Backgrounds/Pop!_OS'%20Interstellar%20Future.png"/>
+  <img src="https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds/blob/main/Pop-_OS-Interstellar-Backgrounds/Pop!_OS'%20Interstellar%20Future.png"/>
 <hi/>
 <h1 align="center">
-  <img src="https://github.com/all-junks/Pop_-OS-Interstellar-Backgrounds/blob/main/Pop!_OS%20Interstellar%20Backgrounds/Pop!_OS'%20Interstellar%20Future%202.png"/>
+  <img src="https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds/blob/main/Pop-_OS-Interstellar-Backgrounds/Pop!_OS'%20Interstellar%20Future%202.png"/>
 </h1>
 <hi align="center">
-  <img src="https://github.com/all-junks/Pop_-OS-Interstellar-Backgrounds/blob/main/Pop!_OS%20Interstellar%20Backgrounds/Catppuccin%20Pop!_OS%20Interstellar%20Future.png"/>
+  <img src="https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds/blob/main/Pop-_OS-Interstellar-Backgrounds/Catppuccin%20Pop!_OS%20Interstellar%20Future.png"/>
 </hi>
 
 <h1 align="center">
