@@ -35,11 +35,15 @@ Custom-made Catppuccin-Nord-style backgrounds built specifically for Pop!_OS lov
 These backgrounds can be installed & ready to use on your system in 3 ways:-
 
 · Open terminal & type:-
-<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-Interstellar-Backgrounds; bash install.sh </pre>
+<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-Interstellar-Backgrounds; sudo bash install.sh </pre>
   OR
-<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-InterstellarBackgrounds; sh install.sh </pre>
+<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-InterstellarBackgrounds; sudo sh install.sh </pre>
   OR
-<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-InterstellarBackgrounds; ./install.sh </pre>
+<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-InterstellarBackgrounds; sudo ./install.sh </pre>
+
+### NOTE:- The `install.sh` file may not be executable. To solve this, open terminal & type:-
+
+### <pre>sudo chmod 755 install.sh; sudo chmod +x install.sh</pre>
 
 · Open your settings manager & select any of my 3 backgrounds
 
