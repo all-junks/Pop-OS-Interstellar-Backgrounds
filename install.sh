@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo mv Pop_-OS-Interstellar-Backgrounds /usr/share/backgrounds/
+sudo mv Pop-_OS-Interstellar-Backgrounds /usr/share/backgrounds/
