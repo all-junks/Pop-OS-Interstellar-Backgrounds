@@ -29,7 +29,7 @@ These backgrounds can be installed & ready to use on your system in 3 ways:-
 
 ## How to install backgrounds (manually) (ALSO RECOMMENDED AS IT DOWNLOADS THE IMAGES FROM THIS SITE):-
 
-· Open the `Backgrounds` folder in my repo
+· Open the `Pop!_OS-Interstellar-Backgrounds` folder in my repo
 
 · Right-click & download them
 
