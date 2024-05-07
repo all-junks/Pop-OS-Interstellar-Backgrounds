@@ -37,9 +37,9 @@ These backgrounds can be installed & ready to use on your system in 3 ways:-
 · Open terminal & type:-
 <pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-Interstellar-Backgrounds; sudo bash install.sh </pre>
   OR
-<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-InterstellarBackgrounds; sudo sh install.sh </pre>
+<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-Interstellar-Backgrounds; sudo sh install.sh </pre>
   OR
-<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-InterstellarBackgrounds; sudo ./install.sh </pre>
+<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; cd Pop-OS-Interstellar-Backgrounds; sudo ./install.sh </pre>
 
 ### NOTE:- The `install.sh` file may not be executable. To solve this, open terminal & type:-
 
@@ -49,7 +49,7 @@ These backgrounds can be installed & ready to use on your system in 3 ways:-
 
 ## How to install backgrounds (manually) (ALSO RECOMMENDED AS IT DOWNLOADS THE IMAGES FROM THIS SITE):-
 
-· Open the `Pop!_OS-Interstellar-Backgrounds` folder in my repo
+· Open the `Pop-_OS-Interstellar-Backgrounds` folder in my repo
 
 · Right-click & download them
 
@@ -58,9 +58,9 @@ These backgrounds can be installed & ready to use on your system in 3 ways:-
 ## How to install backgrounds (manually) (NOT SO RECOMMENDED AS ROOT REQUIRED):-
 
 · Open terminal & type:-
-<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; sudo mv Pop-OS-Interstellar-Backgrounds /usr/share/backgrounds/ </pre>
+<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; sudo mv Pop-_OS-Interstellar-Backgrounds /usr/share/backgrounds/ </pre>
   OR
-<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; sudo cp Pop-OS-Interstellar-Backgrounds /usr/share/backgrounds/ </pre>
+<pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Backgrounds.git; sudo cp Pop-_OS-Interstellar-Backgrounds /usr/share/backgrounds/ </pre>
 
 · Open your settings manager & select the backgrounds
 
